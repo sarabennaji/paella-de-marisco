@@ -3,8 +3,10 @@ Paella de marisco
 
 ## Ingredientes;
 - arroz
+- verduras
 
 
 ## Preparación:
-- freir marisco
+- freir verduras
+- echar agua
 - echar arroz
